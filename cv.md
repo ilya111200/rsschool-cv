@@ -18,6 +18,8 @@ The biggest goal is to become a **frontend developer**.
 ## Education
 - Gymnasium 51
   -    Really Great High School (2010 - 2021)
+- BelSUT
+  -   2nd year (in the learning process, 2021-2025)
 
 ## Experience
 - ### HTML ACADEMU COURSE
