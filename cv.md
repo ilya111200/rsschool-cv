@@ -1,5 +1,5 @@
 # CV
-
+![avatar](https://img.icons8.com/plasticine/256/github-squared.png)
 ## Kukharenka Ilya
 ## Profile
 I am a second-year student of the **BelSUT** University, ***Faculty of Electrical Engineering***.
